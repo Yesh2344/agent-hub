@@ -281,3 +281,4 @@ ViewField::make('energy_summary')
 ### Global Search Optimization
 - Only register `->searchable()` on indexed database columns
 - Use `getGlobalSearchResultDetails()` to show meaningful context in search results
+
