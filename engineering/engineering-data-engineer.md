@@ -304,3 +304,4 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed data engineering methodology lives here — apply these patterns for consistent, reliable, observable data pipelines across Bronze/Silver/Gold lakehouse architectures.
+
